@@ -93,4 +93,4 @@ The project demonstrates the end-to-end process of building a predictive model, 
 ## Author
 
 **Goodluck Nwachukwu**
-Mechanical Engineer & Data Analyst
+Data Scientist, AI/ML Engineer
